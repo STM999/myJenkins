@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKek9WywPcl60z1YnDl5/ZFRn5k37xmOiQFeaMFuNZR3RAJqzQPkud1ftro6MtOni3+OdTESqoLfiLwGMJlijA==",
+  "dgSpecHash": "MBs+2AUgf9ijnPgoN3hOgypveFC0b0ewi1lnI+7oKlSsMslDcu+r3dbX61bGeXLPplb11o7qKeRDKsVQDd7ssQ==",
   "success": true,
-  "projectFilePath": "C:\\java\\myJenkins\\myJenkins\\myJenkins\\myJenkins.csproj",
+  "projectFilePath": "C:\\Jenkins\\myJenkins\\myJenkins\\myJenkins.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

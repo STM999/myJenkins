@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\java\\myJenkins\\myJenkins\\myJenkins\\myJenkins.csproj",
+      "projectUniqueName": "C:\\Jenkins\\myJenkins\\myJenkins\\myJenkins.csproj",
       "projectName": "myJenkins",
-      "projectPath": "C:\\java\\myJenkins\\myJenkins\\myJenkins\\myJenkins.csproj",
+      "projectPath": "C:\\Jenkins\\myJenkins\\myJenkins\\myJenkins.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\java\\myJenkins\\myJenkins\\myJenkins\\obj\\",
+      "outputPath": "C:\\Jenkins\\myJenkins\\myJenkins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

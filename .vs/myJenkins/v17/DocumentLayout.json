@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\java\\myJenkins\\myJenkins\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\myJenkins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB419D1C-91A1-4D3D-880B-81B01342A2F0}|myJenkins\\myJenkins.csproj|c:\\users\\lenovo\\source\\repos\\myjenkins\\myjenkins\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB419D1C-91A1-4D3D-880B-81B01342A2F0}|myJenkins\\myJenkins.csproj|solutionrelative:myjenkins\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +63,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\myJenkins\\myJenkins\\Dockerfile",
+              "RelativeDocumentMoniker": "myJenkins\\Dockerfile",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\myJenkins\\myJenkins\\Dockerfile",
+              "RelativeToolTip": "myJenkins\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-08T08:54:11.191Z",
+              "EditorCaption": ""
             }
           ]
         }

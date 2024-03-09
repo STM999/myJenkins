@@ -3,5 +3,5 @@
         checkout scm
 
     stage 'Build'
-        sh 'docker build -t myjenkins .'
+        sh ' dotnet build'
 }

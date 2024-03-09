@@ -3,5 +3,5 @@
         checkout scm
 
     stage 'Build'
-        sh ' dotnet build'
+        bat ' dotnet build'
 }

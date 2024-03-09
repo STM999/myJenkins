@@ -3,5 +3,8 @@
         checkout scm
 
     stage 'Build'
-        bat ' dotnet build'
+        bat 'dotnet build'
+
+    stage 'Docker Build'
+        bat 'docker build -t myjenkins .'
 }

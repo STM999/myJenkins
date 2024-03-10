@@ -1,4 +1,4 @@
- node('node') {
+ node('docker') {
     stage 'Checkout'
         checkout scm
 
